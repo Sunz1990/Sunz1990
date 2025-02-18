@@ -1,7 +1,7 @@
 # Sunztool
 
 <h3>Sunztool is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
-<h4>you just need an Access Key, wich you can get from <a href="">SunztoolBot</a> for free with 1K Credits Balance.</h4>
+<h4>you just need an Access Key, wich you can get from <a href="">@Sunz1990_Bot</a> for free with 1K Credits Balance.</h4>
 
 ![](./assets/screenshot_1.png)
 
