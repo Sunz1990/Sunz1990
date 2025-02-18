@@ -2,7 +2,7 @@ import requests
 
 __ENDPOINT_URL__: str = "https://telmunnshop.squareweb.app/api"
 
-class CPMTooldev:
+class Sunz1990dev:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
