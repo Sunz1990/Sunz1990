@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from Sunz1990 import Sunz1990
+from Sunz1990 import SUNZ1990
 
 __CHANNEL_USERNAME__ = "SunztoolChannel"
 __GROUP_USERNAME__   = "SunztoolChat"
