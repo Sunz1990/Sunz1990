@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from cpmtooldev import CPMTooldev
 
-__CHANNEL_USERNAME__ = "Sunz1990toolChannel"
-__GROUP_USERNAME__   = "Sunz1990toolChat"
+__CHANNEL_USERNAME__ = "Sunz1990Channel"
+__GROUP_USERNAME__   = "Sunz1990Chat"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
