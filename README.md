@@ -20,8 +20,8 @@
 
 - `pkg install git`
 - `pkg install python python-pip`
-- `git clone https://github.com/Sunz1990/Sunz1990tool.git`
-- `cd Sunz1990tooll`
+- `git clone https://github.com/Sunz1990/Sunz1990.git`
+- `cd Sunz1990`
 - `pip install -r requirements.txt`
 - `python main.py`
 
@@ -30,7 +30,7 @@
 - `apk add git`
 - `apk add python3`
 - `apk add py3-pip`
-- `git clone https://github.com/Sunz1990/Sunz1990tool.git`
-- `cd Sunz1990tool`
+- `git clone https://github.com/Sunz1990/Sunz1990.git`
+- `cd Sunz1990`
 - `pip install -r requirements.txt`
 - `python3 main.py`
