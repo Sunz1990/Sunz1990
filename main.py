@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from Sunztool import Sunztool
 
-__CHANNEL_USERNAME__ = "Sunz1990Channel"
-__GROUP_USERNAME__   = "Sunz1990Chat"
+__CHANNEL_USERNAME__ = "SunztoolChannel"
+__GROUP_USERNAME__   = "SunztoolChat"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
