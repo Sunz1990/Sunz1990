@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Sunz1990/Sunz1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>BaldanDev is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
+<h4>you just need an Access Key, wich you can get from <a href="">@Sunz1990_bot</a> for free with 1K Credits Balance.</h4>
+
+![](./assets/screenshot_1.png)
+
+#### Tested on:
+
+- IPhone (**ish**).
+- Android (**Termux**).
+- Windows
+- Linux
+
+## Installation
+
+### Android (Termux):
+
+- `pkg install git`
+- `pkg install python python-pip`
+- `git clone https://github.com/Sunz1990/CARParktool.git`
+- `cd CARParktool`
+- `pip install -r requirements.txt`
+- `python main.py`
+
+### IPhone (ISH):
+
+- `apk add git`
+- `apk add python3`
+- `apk add py3-pip`
+- `git clone https://github.com/Sunz1990/CARParktool.git`
+- `cd CARParktool`
+- `pip install -r requirements.txt`
+- `python3 main.py`
