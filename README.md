@@ -15,10 +15,7 @@
 ## Installation
 
 ### Android (Termux):
--  pkg update
--  pkg upgrade -y
--  pkg install git
--  pkg install python -y
+
 - `pkg install git`
 - `pkg install python python-pip`
 -  git clone https://github.com/Sunz1990/Sunz1990.git
